@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gokul M</h1>
-<h3 align="center">I am an enthusiastic coder!🚀</h3>
+<h1 align="center">Hi 👋, I'm Gokul!</h1>
+<h3 align="center">I am an enthusiastic and motivated coder💻, driven by curiosity and a passion for continuous learning!🚀</h3>
 
 - 🌱 I’m currently learning **React JS, Block Chain, AI-Ml**
 
